@@ -1,0 +1,1 @@
+document.getElementById('profile-card-jane').addEventListener('click', function() { alert('Profile Details: Jane Doe'); }); document.getElementById('profile-card-john').addEventListener('click', function() { alert('Profile Details: John Doe'); });
